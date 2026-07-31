@@ -1,0 +1,6 @@
+{
+  "name": "SpikePro",
+  "description": "High-performance volleyball analytics, roster management, live match tracking, and training drills platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

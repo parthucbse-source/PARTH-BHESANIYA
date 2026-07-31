@@ -1,0 +1,16 @@
+{
+  "short_name": "SpikePro",
+  "name": "SpikePro Volleyball Analytics",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuB33niJNILCQdW6f4xilZzv8T4UGB3puolv2kub9V9adkUJzu3Y1SNTOzdCEYKARpjcyyNEEqn8Ln2qSfPC_U_WfpLpOSXxu04Ul-5VKWT-bG59TTC98ov12TurmQfN408NwMQwBY4os6g3hFt0t62ru6dNlrJ8G19o_q66tsL6IuHioF6e17Y5Gj1DU7_LvupYPF3yjvRRcSU44CoYk5Op52cQ7qN3EWthDq9HqQIwHaOVHyZUs7KJ",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#000666",
+  "theme_color": "#000666",
+  "display": "standalone",
+  "orientation": "portrait"
+}

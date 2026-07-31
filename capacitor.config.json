@@ -1,0 +1,6 @@
+{
+  "appId": "com.spikepro.volleyball",
+  "appName": "SpikePro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
