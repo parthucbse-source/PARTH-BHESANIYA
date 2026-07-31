@@ -9,3 +9,9 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+npm install
+npm run buildnpm install @capacitor/core @capacitor/cli
+npx cap init "SpikePro" "npm install @capacitor/android @capacitor/ios
+npx cap add android
+npx cap add ios" --wnpx cap sync
+eb-dir npx cap open androidnpx cap open ios
